@@ -1,1 +1,1 @@
-HW11
+This project features a binary clock that uses six LEDs to display the seconds (0–59) in binary format. Each LED represents a single bit, with LED1 as the least significant bit (LSB) and LED6 as the most significant bit (MSB). The Arduino Uno updates the LED display every second by utilizing the `millis()` function to keep track of time. I’ve included a rough hand-drawn sketch of the circuit—let me know if it works for you or if you’d prefer a cleaner version created with schematic software.
